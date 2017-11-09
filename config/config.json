@@ -1,0 +1,168 @@
+ {
+    "tor-dir": "/home/bot/torr",
+    "executable": "/home/bot/torr/tor",
+    "executable-name": "tor",
+    "bind-local": true,
+    "bots": 20,
+    "nodes": [
+        {
+            "type": "AutoDeployNode",
+            "address": "127.0.0.1",
+            "control-port": "9051",
+            "data-port": "9050"
+        },
+        {
+            "type": "AutoDeployNode",
+            "address": "127.0.0.1",
+            "control-port": "9053",
+            "data-port": "9052"
+        },
+        {
+            "type": "AutoDeployNode",
+            "address": "127.0.0.1",
+            "control-port": "9055",
+            "data-port": "9054"
+        },
+        {
+            "type": "AutoDeployNode",
+            "address": "127.0.0.1",
+            "control-port": "9057",
+            "data-port": "9056"
+        },
+        {
+            "type": "AutoDeployNode",
+            "address": "127.0.0.1",
+            "control-port": "9060",
+            "data-port": "9059"
+        },
+        {
+            "type": "AutoDeployNode",
+            "address": "127.0.0.1",
+            "control-port": "9062",
+            "data-port": "9061"
+        },
+        {
+            "type": "AutoDeployNode",
+            "address": "127.0.0.1",
+            "control-port": "9064",
+            "data-port": "9063"
+        },
+        {
+            "type": "AutoDeployNode",
+            "address": "127.0.0.1",
+            "control-port": "9066",
+            "data-port": "9065"
+        },
+        {
+            "type": "AutoDeployNode",
+            "address": "127.0.0.1",
+            "control-port": "9068",
+            "data-port": "9067"
+        },
+        {
+            "type": "AutoDeployNode",
+            "address": "127.0.0.1",
+            "control-port": "9070",
+            "data-port": "9069"
+        },
+        
+        {
+            "type": "AutoDeployNode",
+            "address": "127.0.0.1",
+            "control-port": "9072",
+            "data-port": "9071"
+        },
+        
+        {
+            "type": "AutoDeployNode",
+            "address": "127.0.0.1",
+            "control-port": "9074",
+            "data-port": "9073"
+        },
+        
+        {
+            "type": "AutoDeployNode",
+            "address": "127.0.0.1",
+            "control-port": "9076",
+            "data-port": "9075"
+        },
+        
+        {
+            "type": "AutoDeployNode",
+            "address": "127.0.0.1",
+            "control-port": "9078",
+            "data-port": "9077"
+        },
+        {
+            "type": "AutoDeployNode",
+            "address": "127.0.0.1",
+            "control-port": "9080",
+            "data-port": "9079"
+        },
+        
+        {
+            "type": "AutoDeployNode",
+            "address": "127.0.0.1",
+            "control-port": "9082",
+            "data-port": "9081"
+        },
+        
+        {
+            "type": "AutoDeployNode",
+            "address": "127.0.0.1",
+            "control-port": "9084",
+            "data-port": "9083"
+        },
+        
+        {
+            "type": "AutoDeployNode",
+            "address": "127.0.0.1",
+            "control-port": "9086",
+            "data-port": "9085"
+        },
+        
+        {
+            "type": "AutoDeployNode",
+            "address": "127.0.0.1",
+            "control-port": "9088",
+            "data-port": "9087"
+        },
+        
+        {
+            "type": "AutoDeployNode",
+            "address": "127.0.0.1",
+            "control-port": "9090",
+            "data-port": "9089"
+        },
+        
+        {
+            "type": "AutoDeployNode",
+            "address": "127.0.0.1",
+            "control-port": "9092",
+            "data-port": "9091"
+        },
+        
+        {
+            "type": "AutoDeployNode",
+            "address": "127.0.0.1",
+            "control-port": "9094",
+            "data-port": "9093"
+        },
+        
+        {
+            "type": "AutoDeployNode",
+            "address": "127.0.0.1",
+            "control-port": "9095",
+            "data-port": "9095"
+        },
+        {
+            "type": "AutoDeployNode",
+            "address": "127.0.0.1",
+            "control-port": "9058",
+            "data-port": "9097"
+        }
+    ],
+    "deploy-configs": "/home/bot/torconfig",
+    "default-config": "/home/bot/defaultconfig"
+}
+
